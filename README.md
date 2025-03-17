@@ -87,4 +87,4 @@ Hahsler, M., Piekenbrock, M., & Doran, D. (2019). dbscan: Fast density-based clu
 
 Ester, M., Kriegel, H.-P., Sander, J., & Xu, X. (1996). A density-based algorithm for discovering clusters in large spatial databases with noise (pp. 226–331). *Second International Conference on Knowledge Discovery and Data Mining (KDD’96).* Proceedings of a conference held August 2–4. https://ui.adsabs.harvard.edu/abs/1996kddm.conf..226E  
 
-Nieves, D. J., Pike, J. A., Levet, F., Williamson, D. J., Baragilly, M., Oloketuyi, S., De Marco, A., Griffié, J., Sage, D., Cohen, E. A. K., Sibarita, J.-B., Heilemann, M., & Owen, D. M. (
+Nieves, D. J., Pike, J. A., Levet, F., Williamson, D. J., Baragilly, M., Oloketuyi, S., De Marco, A., Griffié, J., Sage, D., Cohen, E. A. K., Sibarita, J.-B., Heilemann, M., & Owen, D. M. (2023). A framework for evaluating the performance of SMLM cluster analysis algorithms. *Nature Methods, 20*(2), 259–267. https://doi.org/10.1038/s41592-022-01750-6  
